@@ -135,14 +135,21 @@
 
 ## Лекция 4. Хранение данных и ресурсы
 
+🔹 [Динамическое выделение дисков с PVC](https://mcs.mail.ru/help/ru_RU/k8s-pvc/k8s-pvc)
+
 🔹 [Рациональное использование ресурсов в Kubernetes](https://habr.com/ru/company/timeweb/blog/560670/)
 
+🔹 [Как оптимизировать ограничения ресурсов Kubernetes](https://habr.com/ru/company/timeweb/blog/562500/)
 
 ## Лекция 5. Сетевые абстракции Kubernetes
 
 🔹 [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/#configure-probes)
 
 🔹 [iptables: How Kubernetes Services Direct Traffic to Pods](https://dustinspecker.com/posts/iptables-how-kubernetes-services-direct-traffic-to-pods/)
+
+🔹 [NetworkPolicy Editor](https://cilium.io/blog/2021/02/10/network-policy-editor?utm_source=telegram.me&utm_medium=social&utm_campaign=cilium-predstavil-vizualnyy-redaktor-se)
+
+🔹 [NGINX Ingress Controller Annotations](https://kubernetes.github.io/ingress-nginx/user-guide/nginx-configuration/annotations/)
 
 ## Лекция 6. Устройство кластера
 
